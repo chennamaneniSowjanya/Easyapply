@@ -1,5 +1,5 @@
-email: ashwin.agrawal@gmail.com
-password: '@rihaan123'
+email: xxxxxxxxx
+password: xxxxxxxx
 
 disableAntiLock: False
 
@@ -52,9 +52,9 @@ titleBlacklist:
  #- word2
 
 uploads:
- resume: /Users/sowjanya/Desktop/Ashwin Agrawal Resume.pdf
+ resume: path to resume
  # Cover letter is optional
- #coverLetter: C:\Users\myDirectory\CoverLettter.pdf
+ #coverLetter: path to coverlrtter
 
 # ------------ QA section -------------------
 
@@ -147,15 +147,15 @@ technology:
  default: 0
 # ------------ Additional parameters: personal info ---------------
 personalInfo:
- First Name: Ashwin
- Last Name: Agrawal
+ First Name: xxxxx
+ Last Name: xxxxxx
  Phone Country Code: Canada (+1) # See linkedin for your country code, must be exact
- Mobile Phone Number: 6508896026
- Street address: 325 41st street
- City: San Mateo, San Mateo # Include the state/province as well!
- State: California
+ Mobile Phone Number:xxxxxxx
+ Street address: xxxxxxxxx
+ City: xxxxxxxxx # Include the state/province as well!
+ State: xxxxxxxxx
  Zip: 94403
- Linkedin: https://www.linkedin.com/in/agrawalashwin/
+ Linkedin: https://www.linkedin.com/in/xxxxxxx
 
 # ------------ Additional parameters: USA employment crap ---------------
 eeo:
